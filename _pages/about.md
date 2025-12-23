@@ -49,38 +49,40 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/detany3d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Detect anything 3d in the wild](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:LkGwnXOMwfcC)
+[Detect anything 3d in the wild](https://arxiv.org/abs/2504.07958)
 
 H Zhang\*, **Haoran Jiang**\*, Q Yao, Y Sun, R Zhang, H Zhao, H Li, H Zhu, Z Yang
 
 International Conference on Computer Vision (ICCV 2025), co-first author
 
-[**GitHub**](https://github.com/OpenDriveLab/DetAny3D) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:LkGwnXOMwfcC'></span></strong>
+[**GitHub**](https://github.com/OpenDriveLab/DetAny3D) | [**arXiv**](https://arxiv.org/abs/2504.07958) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:LkGwnXOMwfcC'></span></strong>
 - 3D object detection in the wild.
 </div>
 </div>
 
 **Generative AI**
 
-**NeurIPS 2025**. Forgerysleuth: Empowering multimodal large language models for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
+[**NeurIPS 2025** Forgerysleuth: Empowering multimodal large language models for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
 Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang
 
-**IEEE TVCG 2025**. SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
+[**IEEE TVCG 2025**] SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
 Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su
+
+[**ICCV 2023**] Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
+Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
 
 **Weakly-supervised Learning**
 
-**Information Fusion 2025**. Recent advances in complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
+[**Information Fusion 2025**] Recent advances in complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
 Y Tian, **Haoran Jiang**† (Corresponding author)
 
-**Neural Networks 2024**. ComCo: Complementary supervised contrastive learning for complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
+[**Neural Networks 2024**] ComCo: Complementary supervised contrastive learning for complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
 **Haoran Jiang**, Z Sun, Y Tian
 
-**AAAI 2024 (Oral)**. Navigating real-world partial label learning: unveiling fine-grained images with attributes. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
+[**AAAI 2024 (Oral)**] Navigating real-world partial label learning: unveiling fine-grained images with attributes. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
 **Haoran Jiang**, Z Sun, Y Tian
 
-**ICCV 2023**. Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
-Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
+
 
 
 
