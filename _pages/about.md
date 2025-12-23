@@ -17,42 +17,88 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+### Haoran Jiang
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**PhD student at Fudan University | OpenDriveLab**
+
+* Shanghai, China
+* [Email](mailto:jianghaoran2024@gmail.com)
+* [Google Scholar](https://scholar.google.com/citations?user=t9txi-IAAAAJ)
+
+Currently, I'm a second-year PhD student at Fudan University and Shanghai Innovation Institute, advised by [Prof. Hongyang Li](https://lihongyang.info/) and [Prof. Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). My research interests mainly focus on Humanoid Robot Learning.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📖 Education
+* _2024 - (now), PhD student in Computer Science, Fudan University._
+* _2021 - 2024, M.S. in Operations Research and Optimization, University of Chinese Academy of Sciences._
+* _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+# 📝 Selected Publications
+
+**Preprint**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/long2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://arxiv.org/abs/2512.11047)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Haoran Jiang**\*, J Chen\*, Q Bu, L Chen, M Shi, Y Zhang, D Li, C Suo, C Wang, ...
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://arxiv.org/abs/2512.11047) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
+- Towards unified latent vision-language-action models for whole-body loco-manipulation control.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**2025**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/detany3d.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Detect anything 3d in the wild](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:LkGwnXOMwfcC)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+H Zhang\*, **Haoran Jiang**\*, Q Yao, Y Sun, R Zhang, H Zhao, H Li, H Zhu, Z Yang
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+International Conference on Computer Vision (ICCV 2025), co-first author
+
+<strong><span class='show_paper_citations' data='t9txi-IAAAAJ:LkGwnXOMwfcC'></span></strong>
+- 3D object detection in the wild.
+</div>
+</div>
+
+- [Forgerysleuth: Empowering multimodal large language models for image manipulation detection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:_FxGoFyzp5QC), Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang, **NeurIPS 2025** <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+- [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:ufrVoPGSRksC), Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su, **IEEE TVCG 2025** <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
+
+- [Recent advances in complementary label learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:WF5omc3nYNoC), Y Tian, **Haoran Jiang**, **Information Fusion 2025** <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
+
+**2024**
+
+- [ComCo: Complementary supervised contrastive learning for complementary label learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:roLk4NBRz8UC), **Haoran Jiang**, Z Sun, Y Tian, **Neural Networks 2024** <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
+
+- [Navigating real-world partial label learning: unveiling fine-grained images with attributes](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:UebtZRa9Y70C), **Haoran Jiang**, Z Sun, Y Tian, **AAAI 2024 (Oral)**, first author <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
+
+**2023**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:Y0pCki6q_DkC)
+
+Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
+
+International Conference on Computer Vision (ICCV 2023)
+
+<strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
+- Semantic-agnostic feature learning network for image manipulation detection.
+</div>
+</div>
+
+
+
+# 🎖 Selected Honors and Awards
+* National Scholarship (国家奖学金)
+* Beijing University Basketball League - Second Place (北京市大学生篮球联赛第二名) 
+
+
