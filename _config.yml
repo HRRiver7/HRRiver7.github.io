@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoran Jiang"
-description              : "Haoran Jiang - PhD student at Fudan University | OpenDriveLab - Research interests in Humanoid Robot Learning and Machine Learning"
+description              : "Haoran Jiang - PhD student at Fudan University | OpenDriveLab"
 repository               : "HRRiver7/HRRiver7.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,6 @@ author:
   avatar           : "images/haoran_jiang.jpg"
   bio              : "PhD student at Fudan University | OpenDriveLab"
   location         : "Shanghai, China"
-  employer         : "Fudan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t9txi-IAAAAJ"
   email            : "jianghaoran@fudan.edu.cn"
