@@ -21,9 +21,6 @@ redirect_from:
 
 <!-- **PhD student at Fudan University | OpenDriveLab** -->
 
-* Shanghai, China
-* [Email](mailto:jianghaoran2024@gmail.com)
-* [Google Scholar](https://scholar.google.com/citations?user=t9txi-IAAAAJ)
 
 Currently, I'm a second-year PhD student at Fudan University and Shanghai Innovation Institute, advised by [Prof. Hongyang Li](https://lihongyang.info/) and [Prof. Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). My research interests mainly focus on Humanoid Robot Learning.
 
@@ -35,7 +32,7 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 * _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
 
-# 📝 Selected Publications
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/long2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,22 +60,32 @@ International Conference on Computer Vision (ICCV 2025), co-first author
 </div>
 </div>
 
-- [Forgerysleuth: Empowering multimodal large language models for image manipulation detection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:_FxGoFyzp5QC), Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang, **NeurIPS 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
+**Generative AI**
 
-- [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:ufrVoPGSRksC), Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su, **IEEE TVCG 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
+Forgerysleuth: Empowering multimodal large language models for image manipulation detection. **NeurIPS 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
+Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang
 
-- [Recent advances in complementary label learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:WF5omc3nYNoC), Y Tian, **Haoran Jiang**, **Information Fusion 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
+SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. **IEEE TVCG 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
+Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su
 
-- [ComCo: Complementary supervised contrastive learning for complementary label learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:roLk4NBRz8UC), **Haoran Jiang**, Z Sun, Y Tian, **Neural Networks 2024**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
+**Weakly-supervised Learning**
 
-- [Navigating real-world partial label learning: unveiling fine-grained images with attributes](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:UebtZRa9Y70C), **Haoran Jiang**, Z Sun, Y Tian, **AAAI 2024 (Oral)**, first author. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
+Recent advances in complementary label learning. **Information Fusion 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
+Y Tian, **Haoran Jiang**
 
-- [Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=t9txi-IAAAAJ&citation_for_view=t9txi-IAAAAJ:Y0pCki6q_DkC), Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao, **ICCV 2023**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
+ComCo: Complementary supervised contrastive learning for complementary label learning. **Neural Networks 2024**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
+**Haoran Jiang**, Z Sun, Y Tian
+
+Navigating real-world partial label learning: unveiling fine-grained images with attributes. **AAAI 2024 (Oral)**, first author. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
+**Haoran Jiang**, Z Sun, Y Tian
+
+Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. **ICCV 2023**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
+Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
 
 
 
 # 🎖 Selected Honors and Awards
-* National Scholarship (国家奖学金)
-* Beijing University Basketball League - Second Place (北京市大学生篮球联赛第二名) 
+* National Scholarship 
+* Beijing University Basketball League - Second Place 
 
 
