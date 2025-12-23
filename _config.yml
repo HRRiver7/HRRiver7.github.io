@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoran Jiang"
-description              : "Haoran Jiang - PhD student at Fudan University | OpenDriveLab"
+# description              : "Haoran Jiang - PhD student at Fudan University | OpenDriveLab"
 repository               : "HRRiver7/HRRiver7.github.io"
 google_scholar_stats_use_cdn : true
 

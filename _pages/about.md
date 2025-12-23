@@ -28,7 +28,7 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 
 # 📖 Education
 * _2024 - (now), PhD student in Computer Science, Fudan University._
-* _2021 - 2024, M.S. in Operations Research and Optimization, University of Chinese Academy of Sciences._
+* _2021 - 2024, M.S. in Machine Learning and Optimization, University of Chinese Academy of Sciences._
 * _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
 
@@ -62,24 +62,24 @@ International Conference on Computer Vision (ICCV 2025), co-first author
 
 **Generative AI**
 
-Forgerysleuth: Empowering multimodal large language models for image manipulation detection. **NeurIPS 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
+**NeurIPS 2025**. Forgerysleuth: Empowering multimodal large language models for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
 Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang
 
-SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. **IEEE TVCG 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
+**IEEE TVCG 2025**. SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
 Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su
 
 **Weakly-supervised Learning**
 
-Recent advances in complementary label learning. **Information Fusion 2025**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
-Y Tian, **Haoran Jiang**
+**Information Fusion 2025**. Recent advances in complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
+Y Tian, **Haoran Jiang**† (Corresponding author)
 
-ComCo: Complementary supervised contrastive learning for complementary label learning. **Neural Networks 2024**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
+**Neural Networks 2024**. ComCo: Complementary supervised contrastive learning for complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
 **Haoran Jiang**, Z Sun, Y Tian
 
-Navigating real-world partial label learning: unveiling fine-grained images with attributes. **AAAI 2024 (Oral)**, first author. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
+**AAAI 2024 (Oral)**. Navigating real-world partial label learning: unveiling fine-grained images with attributes. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
 **Haoran Jiang**, Z Sun, Y Tian
 
-Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. **ICCV 2023**. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
+**ICCV 2023**. Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
 Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
 
 
