@@ -64,29 +64,29 @@ International Conference on Computer Vision (ICCV 2025), co-first author
 
 [**NeurIPS 2025**] Forgerysleuth: Empowering multimodal large language models for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
 
-Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang
+&nbsp;&nbsp;&nbsp;&nbsp;Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang
 
 [**IEEE TVCG 2025**] SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
 
-Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su
+&nbsp;&nbsp;&nbsp;&nbsp;Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su
 
 [**ICCV 2023**] Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
 
-Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
+&nbsp;&nbsp;&nbsp;&nbsp;Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
 
 ## Weakly-supervised Learning
 
 [**Information Fusion 2025**] Recent advances in complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
 
-Y Tian, **Haoran Jiang**† (Corresponding author)
+&nbsp;&nbsp;&nbsp;&nbsp;Y Tian, **Haoran Jiang**† (Corresponding author)
 
 [**Neural Networks 2024**] ComCo: Complementary supervised contrastive learning for complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
 
-**Haoran Jiang**, Z Sun, Y Tian
+&nbsp;&nbsp;&nbsp;&nbsp;**Haoran Jiang**, Z Sun, Y Tian
 
 [**AAAI 2024 (Oral)**] Navigating real-world partial label learning: unveiling fine-grained images with attributes. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
 
-**Haoran Jiang**, Z Sun, Y Tian
+&nbsp;&nbsp;&nbsp;&nbsp;**Haoran Jiang**, Z Sun, Y Tian
 
 
 
