@@ -31,10 +31,12 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 * _2021 - 2024, M.S. in Machine Learning and Optimization, University of Chinese Academy of Sciences._
 * _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
+# 🔥 News
+- *2026.01*: &nbsp;🎉🎉 WholeBodyVLA is accepted by ICLR 2026.
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/long2.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/long2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)
