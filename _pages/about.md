@@ -32,7 +32,8 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 * _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 WholeBodyVLA is accepted by ICLR 2026.
+- *2026.02*: &nbsp;📢 We release EgoHumanoid on ArXiv, a human-to-humanoid loco-manipulation transfer framework.
+- *2026.01*: &nbsp;🎉🎉 WholeBodyVLA is accepted by ICLR 2026!
 
 # 📝 Selected Publications
 
