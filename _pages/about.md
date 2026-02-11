@@ -37,14 +37,14 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 202602</div><img src='images/EgoHumaniod.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2602</div><img src='images/EgoHumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)
 
 Modi Shi\*, Shijia Peng\*, J Chen\*, **Haoran Jiang**, Y Li, D Huang, P Luo, H Li, L Chen
 
-[**Project**](https://opendrivelab.com/EgoHumaniod/) | [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid) | [**arXiv**](https://arxiv.org/abs/2602.10106) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
+[**Project**](https://opendrivelab.com/EgoHumanoid/) | [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid) | [**arXiv**](https://arxiv.org/abs/2602.10106) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Towards unified latent vision-language-action models for whole-body loco-manipulation control.
 </div>
 </div>
