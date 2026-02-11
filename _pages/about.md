@@ -42,7 +42,7 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 
 [EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)
 
-Modi Shi\*, Shijia Peng\*, J Chen\*, **Haoran Jiang**, Y Li, D Huang, P Luo, H Li, L Chen
+M Shi\*, S Peng\*, J Chen\*, **Haoran Jiang**, Y Li, D Huang, P Luo, H Li, L Chen
 
 [**Project**](https://opendrivelab.com/EgoHumanoid/) | [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid) | [**arXiv**](https://arxiv.org/abs/2602.10106) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The first endorsement of human-to-humanoid transfer for whole-body locomanipulation.
