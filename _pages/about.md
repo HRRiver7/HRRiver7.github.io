@@ -36,12 +36,26 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 202602</div><img src='images/EgoHumaniod.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)
+
+Modi Shi\*, Shijia Peng\*, J Chen\*, **Haoran Jiang**, Y Li, D Huang, P Luo, H Li, L Chen
+
+[**Project**](https://opendrivelab.com/EgoHumaniod/) | [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid) | [**arXiv**](https://arxiv.org/abs/2602.10106) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
+- Towards unified latent vision-language-action models for whole-body loco-manipulation control.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/long2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)
 
 **Haoran Jiang**\*, J Chen\*, Q Bu, L Chen, M Shi, Y Zhang, D Li, C Suo, C Wang, ...
+
+International Conference on Learning Representations (ICCV 2025), first author
 
 [**Project**](https://opendrivelab.com/WholeBodyVLA/) | [**GitHub**](https://github.com/OpenDriveLab/WholebodyVLA) | [**arXiv**](https://arxiv.org/abs/2512.11047) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Towards unified latent vision-language-action models for whole-body loco-manipulation control.
@@ -78,6 +92,10 @@ International Conference on Computer Vision (ICCV 2025), co-first author
 
 ## Weakly-supervised Learning
 
+[**AAAI 2024 (Oral)**] Navigating real-world partial label learning: unveiling fine-grained images with attributes. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Haoran Jiang**, Z Sun, Y Tian
+
 [**Information Fusion 2025**] Recent advances in complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Y Tian, **Haoran Jiang**† (Corresponding author)
@@ -85,11 +103,6 @@ International Conference on Computer Vision (ICCV 2025), co-first author
 [**Neural Networks 2024**] ComCo: Complementary supervised contrastive learning for complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Haoran Jiang**, Z Sun, Y Tian
-
-[**AAAI 2024 (Oral)**] Navigating real-world partial label learning: unveiling fine-grained images with attributes. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Haoran Jiang**, Z Sun, Y Tian
-
 
 
 
