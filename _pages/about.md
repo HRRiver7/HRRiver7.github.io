@@ -56,7 +56,7 @@ M Shi\*, S Peng\*, J Chen\*, **Haoran Jiang**, Y Li, D Huang, P Luo, H Li, L Che
 
 **Haoran Jiang**\*, J Chen\*, Q Bu, L Chen, M Shi, Y Zhang, D Li, C Suo, C Wang, ...
 
-International Conference on Learning Representations (ICCV 2025), first author
+International Conference on Learning Representations (ICLR 2026), first author
 
 [**Project**](https://opendrivelab.com/WholeBodyVLA/) | [**GitHub**](https://github.com/OpenDriveLab/WholebodyVLA) | [**arXiv**](https://arxiv.org/abs/2512.11047) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Towards unified latent vision-language-action models for whole-body loco-manipulation control.
