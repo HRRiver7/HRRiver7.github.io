@@ -87,7 +87,7 @@ International Conference on Computer Vision (ICCV 2025), co-first author
 
 &nbsp;&nbsp;&nbsp;&nbsp;Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su
 
-[**ICCV 2023**] Safl-net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
+[**ICCV 2023**] SAFL-Net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
 
