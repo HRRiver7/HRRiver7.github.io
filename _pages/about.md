@@ -37,7 +37,7 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 - *2026.02*: &nbsp;📢 We release EgoHumanoid on ArXiv, a human-to-humanoid loco-manipulation transfer framework.
 - *2026.01*: &nbsp;🎉 WholeBodyVLA is accepted by ICLR 2026!
 
-# 📝 Selected Publications
+# 📝 Selected Publications and PrePrints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2604</div><img src='images/smash_teaser.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
