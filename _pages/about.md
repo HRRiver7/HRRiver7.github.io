@@ -39,7 +39,7 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 
 # 📝 Selected Publications and PrePrints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2604</div><img src='images/smash_teaser.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2604</div><img src='images/smash_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SMASH: Mastering Scalable Whole-Body Skills for Humanoid
