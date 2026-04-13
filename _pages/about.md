@@ -48,7 +48,7 @@ Ping-Pong with Egocentric Vision](https://mmlab.hk/Smash/)
 J Ren\*, Y Li\*, K Zhang\*, L Peng\*, **Haoran Jiang**, ...\, P Luo
 
 [**Project**](https://mmlab.hk/Smash/) | [**arXiv**](https://arxiv.org/abs/2604.01158) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
-- The first humanoid system to play pingpong in-the-wild without mocap.
+- The first humanoid system to play agile pingpong in-the-wild without mocap.
 </div>
 </div>
 
