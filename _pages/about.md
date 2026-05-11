@@ -32,7 +32,7 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 * _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
 # 🔥 News
-- *2026.05*: &nbsp;📢 EgoHumanoid is fully open-sourced and is accepted by RSS 2026!
+- *2026.05*: &nbsp;🎉 EgoHumanoid is fully open-sourced and is accepted by RSS 2026!
 
 - *2026.04*: &nbsp;📢 🏓 We release SMASH on ArXiv, mastering scalable whole-body skills for humanoid ping-pong with egocentric vision.
 
