@@ -32,6 +32,8 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 * _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
 # 🔥 News
+- *2026.05*: &nbsp;📢 EgoHumanoid is fully open-sourced and is accepted by RSS 2026!
+
 - *2026.04*: &nbsp;📢 🏓 We release SMASH on ArXiv, mastering scalable whole-body skills for humanoid ping-pong with egocentric vision.
 
 - *2026.02*: &nbsp;📢 We release EgoHumanoid on ArXiv, a human-to-humanoid loco-manipulation transfer framework.
@@ -52,7 +54,7 @@ J Ren\*, Y Li\*, K Zhang\*, L Peng\*, **Haoran Jiang**, ..., P Luo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2602</div><img src='images/EgoHumanoid.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/EgoHumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)
