@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoran Jiang"
+  name             : "Haoran Jiang (江浩然)"
   avatar           : "images/haoran_jiang.jpg"
   bio              : "PhD student at Fudan University | OpenDriveLab at HKU"
   location         : "Shanghai, China"
