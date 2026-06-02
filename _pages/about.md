@@ -130,7 +130,6 @@ International Conference on Computer Vision (ICCV 2025), co-first author
 * Beijing University Basketball League - Second Place 
 
 # Services
-**Reviewer:** RSS, ICLR, NeurIPS, CVPR, ICCV, AAAI, RAL.
+**Reviewer:** RSS, ICLR, NeurIPS, CVPR, ICCV, AAAI, RA-L, etc.
 
 **Organizer:** [End-to-End Embodied Agents Workshop](https://www.starleague.ai/event2024/).
-
