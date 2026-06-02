@@ -187,6 +187,14 @@
     &:hover {
       color: $masthead-link-color-hover;
     }
+
+    &:focus {
+      outline: none;
+    }
+
+    &:focus-visible {
+      color: $masthead-link-color-hover;
+    }
   }
 
   button {
@@ -241,7 +249,8 @@
                 transform: scaleX(0); /* hide*/
       }
 
-      &:hover:before {
+      &:hover:before,
+      &:focus-visible:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
@@ -266,6 +275,11 @@
       font-size: $type-size-5;
 
       &:hover {
+        color: $masthead-link-color-hover;
+        background: mix(#fff, $primary-color, 75%);
+      }
+
+      &:focus-visible {
         color: $masthead-link-color-hover;
         background: mix(#fff, $primary-color, 75%);
       }
