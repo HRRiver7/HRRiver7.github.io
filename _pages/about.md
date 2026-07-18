@@ -60,7 +60,7 @@ redirect_from:
       </div>
     </article>
     <article class="education-card">
-      <div class="education-card__logos education-card__logos--single">
+      <div class="education-card__logos education-card__logos--single" style="justify-content: center;">
         <img class="education-logo education-logo--seal" src="images/logo-hnu.webp" alt="Hunan University logo">
       </div>
       <span class="education-card__year">2017 — 2021</span>
