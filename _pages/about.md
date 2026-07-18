@@ -32,6 +32,8 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 * _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 SMASH is accepted by IEEE Transactions on Robotics (T-RO)!
+
 - *2026.05*: &nbsp;🎉 EgoHumanoid is fully open-sourced and is accepted by RSS 2026!
 
 - *2026.04*: &nbsp;📢 🏓 We release SMASH on ArXiv, mastering scalable whole-body skills for humanoid ping-pong with egocentric vision.
@@ -41,13 +43,13 @@ Currently, I'm a second-year PhD student at Fudan University and Shanghai Innova
 
 # 📝 Selected Publications and PrePrints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2604</div><img src='images/smash_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO 2026</div><img src='images/smash_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SMASH: Mastering Scalable Whole-Body Skills for Humanoid
 Ping-Pong with Egocentric Vision](https://mmlab.hk/Smash/)
 
-J Ren\*, Y Li\*, K Zhang\*, L Peng\*, **Haoran Jiang**, ..., P Luo
+<div class="paper-meta"><span class="paper-venue">T-RO 2026</span><span class="paper-role paper-role--core">Core Contributor</span></div>
 
 [**Project**](https://mmlab.hk/Smash/) | [**arXiv**](https://arxiv.org/abs/2604.01158) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The first humanoid system to play agile pingpong in-the-wild without mocap.
@@ -59,7 +61,7 @@ J Ren\*, Y Li\*, K Zhang\*, L Peng\*, **Haoran Jiang**, ..., P Luo
 
 [EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)
 
-M Shi\*, S Peng\*, J Chen\*, **Haoran Jiang**, Y Li, D Huang, P Luo, H Li, L Chen
+<div class="paper-meta"><span class="paper-venue">RSS 2026</span><span class="paper-role paper-role--core">Core Contributor</span></div>
 
 [**Project**](https://opendrivelab.com/EgoHumanoid/) | [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid) | [**arXiv**](https://arxiv.org/abs/2602.10106) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The first endorsement of human-to-humanoid transfer for whole-body locomanipulation.
@@ -71,9 +73,7 @@ M Shi\*, S Peng\*, J Chen\*, **Haoran Jiang**, Y Li, D Huang, P Luo, H Li, L Che
 
 [WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)
 
-**Haoran Jiang**\*, J Chen\*, Q Bu, L Chen, M Shi, Y Zhang, D Li, C Suo, C Wang, ...
-
-International Conference on Learning Representations (ICLR 2026), first author
+<div class="paper-meta"><span class="paper-venue">ICLR 2026</span><span class="paper-role paper-role--first">First Author</span></div>
 
 [**Project**](https://opendrivelab.com/WholeBodyVLA/) | [**GitHub**](https://github.com/OpenDriveLab/WholebodyVLA) | [**arXiv**](https://arxiv.org/abs/2512.11047) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Towards unified latent vision-language-action models for whole-body loco-manipulation control.
@@ -85,9 +85,7 @@ International Conference on Learning Representations (ICLR 2026), first author
 
 [Detect anything 3d in the wild](https://arxiv.org/abs/2504.07958)
 
-H Zhang\*, **Haoran Jiang**\*, Q Yao, Y Sun, R Zhang, H Zhao, H Li, H Zhu, Z Yang
-
-International Conference on Computer Vision (ICCV 2025), co-first author
+<div class="paper-meta"><span class="paper-venue">ICCV 2025</span><span class="paper-role paper-role--first">Co-first Author</span></div>
 
 [**GitHub**](https://github.com/OpenDriveLab/DetAny3D) | [**arXiv**](https://arxiv.org/abs/2504.07958) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:LkGwnXOMwfcC'></span></strong>
 - 3D object detection in the wild.
