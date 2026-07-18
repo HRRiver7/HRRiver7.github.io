@@ -68,6 +68,7 @@ redirect_from:
     <article class="paper-box">
       <div class="paper-box-image">
         <div>
+          <span class="badge">LIVE DEMO</span>
           <img src="images/robopingpong-v2.gif" alt="Humanoid robot playing table tennis in RoboPingpong V2" loading="lazy" width="100%">
         </div>
       </div>
