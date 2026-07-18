@@ -29,6 +29,7 @@ redirect_from:
     <a class="hero-button hero-button--primary" href="#selected-projects">Selected work <span aria-hidden="true">↓</span></a>
     <a class="hero-button" href="https://scholar.google.com/citations?user=t9txi-IAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a>
     <a class="hero-button" href="mailto:jianghaoran2024@gmail.com">Email</a>
+    <a class="hero-button hero-button--icon" href="https://www.linkedin.com/in/haoran-jiang-river7777/?skipRedirect=true" aria-label="LinkedIn profile" title="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
   </div>
 </section>
 
@@ -39,7 +40,7 @@ redirect_from:
   <div class="education-grid">
     <article class="education-card">
       <div class="education-card__logos education-card__logos--phd">
-        <img class="education-logo education-logo--seal" src="images/logo-fdu.png" alt="Fudan University logo">
+        <img class="education-logo education-logo--seal" src="images/logo-fdu.png?v=28b899c" alt="Fudan University logo">
         <img class="education-logo education-logo--wide" src="images/logo-sii.png" alt="Shanghai Innovation Institute logo">
       </div>
       <span class="education-card__year">2024 — Present</span>
@@ -51,7 +52,7 @@ redirect_from:
     <article class="education-card">
       <div class="education-card__logos education-card__logos--masters">
         <img class="education-logo education-logo--ucas" src="images/logo-ucas.png" alt="University of Chinese Academy of Sciences logo">
-        <img class="education-logo education-logo--amss" src="images/logo-amss-compact.png" alt="Academy of Mathematics and Systems Science logo">
+        <img class="education-logo education-logo--amss" src="images/logo-amss-compact.png?v=28b899c" alt="Academy of Mathematics and Systems Science logo">
       </div>
       <span class="education-card__year">2021 — 2024</span>
       <div class="education-card__content">
@@ -60,8 +61,8 @@ redirect_from:
       </div>
     </article>
     <article class="education-card">
-      <div class="education-card__logos education-card__logos--single" style="justify-content: center;">
-        <img class="education-logo education-logo--seal" src="images/logo-hnu.webp" alt="Hunan University logo">
+      <div class="education-card__logos">
+        <img class="education-logo education-logo--hnu" src="images/logo-hnu.webp" alt="Hunan University logo">
       </div>
       <span class="education-card__year">2017 — 2021</span>
       <div class="education-card__content">
@@ -138,7 +139,7 @@ redirect_from:
         <p class="paper-summary">Human-to-humanoid transfer for whole-body loco-manipulation using robot-free egocentric demonstrations.</p>
         <div class="paper-links">
           <a href="https://opendrivelab.com/EgoHumanoid/">Project <span aria-hidden="true">↗</span></a>
-          <a href="https://github.com/OpenDriveLab/EgoHumanoid">GitHub <span aria-hidden="true">↗</span></a>
+          <a class="github-repo-link" href="https://github.com/OpenDriveLab/EgoHumanoid" data-github-repo="OpenDriveLab/EgoHumanoid"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span><span class="github-stars" aria-label="196 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span data-github-star-count>196</span></span></a>
           <a href="https://arxiv.org/abs/2602.10106">arXiv <span aria-hidden="true">↗</span></a>
           <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:hqOjcs7Dif8C"></span></strong>
         </div>
@@ -158,7 +159,7 @@ redirect_from:
         <p class="paper-summary">A unified latent vision-language-action model for whole-body loco-manipulation control.</p>
         <div class="paper-links">
           <a href="https://opendrivelab.com/WholeBodyVLA/">Project <span aria-hidden="true">↗</span></a>
-          <a href="https://github.com/OpenDriveLab/WholebodyVLA">GitHub <span aria-hidden="true">↗</span></a>
+          <a class="github-repo-link" href="https://github.com/OpenDriveLab/WholebodyVLA" data-github-repo="OpenDriveLab/WholebodyVLA"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span><span class="github-stars" aria-label="521 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span data-github-star-count>521</span></span></a>
           <a href="https://arxiv.org/abs/2512.11047">arXiv <span aria-hidden="true">↗</span></a>
           <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:hqOjcs7Dif8C"></span></strong>
         </div>
@@ -177,7 +178,7 @@ redirect_from:
         <h2 class="paper-title"><a href="https://arxiv.org/abs/2504.07958">Detect Anything 3D in the Wild</a></h2>
         <p class="paper-summary">Promptable monocular 3D object detection for open-world scenes.</p>
         <div class="paper-links">
-          <a href="https://github.com/OpenDriveLab/DetAny3D">GitHub <span aria-hidden="true">↗</span></a>
+          <a class="github-repo-link" href="https://github.com/OpenDriveLab/DetAny3D" data-github-repo="OpenDriveLab/DetAny3D"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span><span class="github-stars" aria-label="284 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span data-github-star-count>284</span></span></a>
           <a href="https://arxiv.org/abs/2504.07958">arXiv <span aria-hidden="true">↗</span></a>
           <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:LkGwnXOMwfcC"></span></strong>
         </div>
@@ -211,7 +212,7 @@ redirect_from:
     <section class="publication-group" aria-labelledby="machine-learning-heading">
       <h2 id="machine-learning-heading">Machine Learning</h2>
       <article class="publication-row">
-        <span class="publication-row__venue">AAAI 2024 · Oral</span>
+        <span class="publication-row__venue">AAAI 2024 <span class="publication-venue-highlight">Oral</span></span>
         <p>Navigating Real-World Partial Label Learning: Unveiling Fine-Grained Images with Attributes. <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:UebtZRa9Y70C"></span></strong></p>
         <span class="paper-role paper-role--first">First Author</span>
       </article>

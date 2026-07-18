@@ -239,6 +239,13 @@ body {
     background: var(--lab-cyan);
 }
 
+.page__content .hero-button--icon {
+    flex: 0 0 2.75rem;
+    width: 2.75rem;
+    padding-inline: 0;
+    font-size: 1rem;
+}
+
 .home-section {
     margin: 4.75rem 0;
     scroll-margin-top: 5.5rem;
@@ -282,10 +289,6 @@ body {
     gap: .9rem;
 }
 
-.education-card__logos--single {
-    justify-content: center;
-}
-
 .education-logo {
     display: block;
     width: auto;
@@ -311,6 +314,13 @@ body {
 .education-logo--amss {
     max-width: 5.2rem;
     max-height: 3.4rem;
+}
+
+.education-logo--hnu {
+    width: 10.75rem;
+    height: 3.25rem;
+    object-fit: contain;
+    object-position: center;
 }
 
 .education-card__year {
@@ -558,6 +568,21 @@ body {
     background: #fff;
 }
 
+.github-stars {
+    display: inline-flex;
+    align-items: center;
+    gap: .2rem;
+    margin-left: .1rem;
+    padding-left: .42rem;
+    border-left: 1px solid rgba(23, 63, 103, .16);
+    color: #8b6725;
+    font-variant-numeric: tabular-nums;
+}
+
+.github-stars .fa-star {
+    font-size: .62rem;
+}
+
 .show_paper_citations:not(:empty) {
     display: inline-flex;
     padding: .3rem .55rem;
@@ -612,6 +637,20 @@ body {
     font-weight: 760;
     letter-spacing: .06em;
     text-transform: uppercase;
+}
+
+.publication-venue-highlight {
+    display: inline-flex;
+    align-items: center;
+    margin-left: .32rem;
+    padding: .12rem .38rem;
+    border: 1px solid rgba(180, 122, 42, .3);
+    border-radius: 999px;
+    color: #9a641e;
+    background: rgba(236, 190, 103, .13);
+    font-size: .62rem;
+    letter-spacing: .055em;
+    vertical-align: .08em;
 }
 
 .publication-row p {
