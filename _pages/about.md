@@ -28,8 +28,6 @@ redirect_from:
   <div class="research-hero__actions">
     <a class="hero-button hero-button--primary" href="#selected-projects">Selected work <span aria-hidden="true">↓</span></a>
     <a class="hero-button" href="https://scholar.google.com/citations?user=t9txi-IAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a>
-    <a class="hero-button" href="mailto:jianghaoran2024@gmail.com">Email</a>
-    <a class="hero-button hero-button--icon" href="https://www.linkedin.com/in/haoran-jiang-river7777/?skipRedirect=true" aria-label="LinkedIn profile" title="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
   </div>
 </section>
 

@@ -239,13 +239,6 @@ body {
     background: var(--lab-cyan);
 }
 
-.page__content .hero-button--icon {
-    flex: 0 0 2.75rem;
-    width: 2.75rem;
-    padding-inline: 0;
-    font-size: 1rem;
-}
-
 .home-section {
     margin: 4.75rem 0;
     scroll-margin-top: 5.5rem;
@@ -595,18 +588,12 @@ body {
 
 .publication-groups {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 2.5rem;
+    grid-template-columns: 1fr;
+    gap: 2rem;
 }
 
 .publication-group {
     min-width: 0;
-}
-
-.publication-group + .publication-group {
-    margin-left: -.05rem;
-    padding-left: 2.5rem;
-    border-left: 1px solid var(--lab-line);
 }
 
 .page__content .publication-group > h2 {
@@ -668,7 +655,7 @@ body {
 
 .profile-highlights {
     display: grid;
-    grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+    grid-template-columns: 1fr;
     gap: 0;
     border-top: 1px solid var(--lab-line);
     border-bottom: 1px solid var(--lab-line);
@@ -680,9 +667,9 @@ body {
 }
 
 .profile-highlight-card + .profile-highlight-card {
-    margin-left: 2.2rem;
-    padding-left: 2.2rem;
-    border-left: 1px solid var(--lab-line);
+    margin-left: 0;
+    padding-left: 0;
+    border-top: 1px solid var(--lab-line);
 }
 
 .page__content .profile-highlight-card h2 {
@@ -718,19 +705,6 @@ body {
     .sidebar .author__urls a {
         margin-bottom: .15rem;
         padding: .35rem .4rem;
-    }
-}
-
-@media (max-width: 1080px) {
-    .publication-groups {
-        grid-template-columns: 1fr;
-        gap: 2rem;
-    }
-
-    .publication-group + .publication-group {
-        margin-left: 0;
-        padding-left: 0;
-        border-left: 0;
     }
 }
 
@@ -773,10 +747,6 @@ body {
         flex: 1 1 auto;
     }
 
-    .page__content .hero-button--icon {
-        flex: 0 0 2.75rem;
-    }
-
     .home-section {
         margin: 3.4rem 0;
     }
@@ -807,16 +777,6 @@ body {
         aspect-ratio: 16 / 9;
     }
 
-    .profile-highlights {
-        grid-template-columns: 1fr;
-    }
-
-    .profile-highlight-card + .profile-highlight-card {
-        margin-left: 0;
-        padding-left: 0;
-        border-top: 1px solid var(--lab-line);
-        border-left: 0;
-    }
 }
 
 @media (prefers-reduced-motion: no-preference) {
