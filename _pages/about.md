@@ -76,7 +76,7 @@ redirect_from:
       <div class="paper-box-text">
         <div class="paper-meta"><span class="paper-role paper-role--first">Project Leader</span></div>
         <h2 class="paper-title">Humanoids for sports - RoboPingpong V1</h2>
-        <p class="paper-summary">Built on SMASH, RoboPingpong V1 takes humanoid table tennis further with stronger, more capable skills. RoboPingpong V2 is coming soon with something new.</p>
+        <p class="paper-summary">Built on SMASH, evolved for stronger play. RoboPingpong V2 is coming soon with something new.</p>
       </div>
     </article>
 
