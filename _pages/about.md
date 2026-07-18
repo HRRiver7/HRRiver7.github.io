@@ -76,7 +76,7 @@ redirect_from:
       <div class="paper-box-text">
         <div class="paper-meta"><span class="paper-role paper-role--first">Project Leader</span></div>
         <h2 class="paper-title">Humanoids for sports - RoboPingpong V1</h2>
-        <p class="paper-summary">Enhanced for stronger play, building on SMASH. RoboPingpong V2 is coming soon with something new.</p>
+        <p class="paper-summary">Enhanced for stronger play built on SMASH.<br>RoboPingpong V2 is coming soon with something new...</p>
       </div>
     </article>
 
@@ -109,7 +109,7 @@ redirect_from:
       <div class="paper-box-text">
         <div class="paper-meta"><span class="paper-venue">RSS 2026</span><span class="paper-role paper-role--core">Core Contributor</span></div>
         <h2 class="paper-title"><a href="https://opendrivelab.com/EgoHumanoid/">EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration</a></h2>
-        <p class="paper-summary">Human-to-humanoid transfer for whole-body loco-manipulation using robot-free egocentric demonstrations.</p>
+        <p class="paper-summary">The first human-to-humanoid framework for whole-body loco-manipulation from robot-free egocentric demonstrations.</p>
         <div class="paper-links">
           <a href="https://opendrivelab.com/EgoHumanoid/">Project <span aria-hidden="true">↗</span></a>
           <a class="github-repo-link" href="https://github.com/OpenDriveLab/EgoHumanoid" data-github-repo="OpenDriveLab/EgoHumanoid"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span><span class="github-stars" aria-label="196 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span data-github-star-count>196</span></span></a>
@@ -129,7 +129,7 @@ redirect_from:
       <div class="paper-box-text">
         <div class="paper-meta"><span class="paper-venue">ICLR 2026</span><span class="paper-role paper-role--first">First Author</span></div>
         <h2 class="paper-title"><a href="https://opendrivelab.com/WholeBodyVLA/">WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control</a></h2>
-        <p class="paper-summary">A unified latent vision-language-action model for whole-body loco-manipulation control.</p>
+        <p class="paper-summary">The first end-to-end humanoid system for large-space whole-body loco-manipulation.</p>
         <div class="paper-links">
           <a href="https://opendrivelab.com/WholeBodyVLA/">Project <span aria-hidden="true">↗</span></a>
           <a class="github-repo-link" href="https://github.com/OpenDriveLab/WholebodyVLA" data-github-repo="OpenDriveLab/WholebodyVLA"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span><span class="github-stars" aria-label="521 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span data-github-star-count>521</span></span></a>
