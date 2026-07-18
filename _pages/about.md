@@ -43,8 +43,10 @@ redirect_from:
         <img class="education-logo education-logo--wide" src="images/logo-sii.png" alt="Shanghai Innovation Institute logo">
       </div>
       <span class="education-card__year">2024 — Present</span>
-      <h2>Fudan University</h2>
-      <p>Ph.D. student in Computer Science</p>
+      <div class="education-card__content">
+        <h2>Fudan University</h2>
+        <p>Ph.D. student in Computer Science</p>
+      </div>
     </article>
     <article class="education-card">
       <div class="education-card__logos education-card__logos--masters">
@@ -52,16 +54,20 @@ redirect_from:
         <img class="education-logo education-logo--amss" src="images/logo-amss.png" alt="Academy of Mathematics and Systems Science logo">
       </div>
       <span class="education-card__year">2021 — 2024</span>
-      <h2>Chinese Academy of Sciences</h2>
-      <p>M.S. in Machine Learning and Optimization</p>
+      <div class="education-card__content">
+        <h2>Chinese Academy of Sciences</h2>
+        <p>M.S. in Machine Learning and Optimization</p>
+      </div>
     </article>
     <article class="education-card">
       <div class="education-card__logos">
         <img class="education-logo education-logo--seal" src="images/logo-hnu.webp" alt="Hunan University logo">
       </div>
       <span class="education-card__year">2017 — 2021</span>
-      <h2>Hunan University</h2>
-      <p>B.S. in Statistics · Rank 1/30</p>
+      <div class="education-card__content">
+        <h2>Hunan University</h2>
+        <p>B.S. in Statistics · Rank 1/30</p>
+      </div>
     </article>
   </div>
 </section>
