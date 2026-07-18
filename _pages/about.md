@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,119 +15,236 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
-<!-- ### Haoran Jiang -->
+<section class="research-hero" aria-labelledby="research-hero-title">
+  <div class="research-hero__glow" aria-hidden="true"></div>
+  <p class="research-hero__eyebrow"><span></span> Humanoid Robot Learning · Embodied AI</p>
+  <h1 id="research-hero-title">Learning whole-body intelligence for humanoid robots.</h1>
+  <p class="research-hero__intro">
+    I am a second-year Ph.D. student at Fudan University and Shanghai Innovation Institute, advised by
+    <a href="https://lihongyang.info/">Prof. Hongyang Li</a> and
+    <a href="https://mmlab.siat.ac.cn/yuqiao">Prof. Yu Qiao</a>. My research explores how humanoids can learn
+    versatile loco-manipulation skills from human demonstrations and multimodal experience.
+  </p>
+  <div class="research-hero__actions">
+    <a class="hero-button hero-button--primary" href="#selected-publications">Selected work <span aria-hidden="true">↓</span></a>
+    <a class="hero-button" href="https://scholar.google.com/citations?user=t9txi-IAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a>
+    <a class="hero-button" href="mailto:jianghaoran2024@gmail.com">Email</a>
+  </div>
+  <div class="research-hero__topics" aria-label="Research topics">
+    <span>Vision-Language-Action</span>
+    <span>Whole-Body Control</span>
+    <span>Human-to-Humanoid Transfer</span>
+  </div>
+</section>
 
-<!-- **PhD student at Fudan University | OpenDriveLab** -->
+<section class="home-section" id="education">
+  <header class="section-heading">
+    <p>Background</p>
+    <h1>Education</h1>
+  </header>
+  <div class="education-grid">
+    <article class="education-card">
+      <span class="education-card__year">2024 — Present</span>
+      <h2>Fudan University</h2>
+      <p>Ph.D. student in Computer Science</p>
+    </article>
+    <article class="education-card">
+      <span class="education-card__year">2021 — 2024</span>
+      <h2>Chinese Academy of Sciences</h2>
+      <p>M.S. in Machine Learning and Optimization</p>
+    </article>
+    <article class="education-card">
+      <span class="education-card__year">2017 — 2021</span>
+      <h2>Hunan University</h2>
+      <p>B.S. in Statistics · Rank 1/30</p>
+    </article>
+  </div>
+</section>
 
+<section class="home-section" id="news">
+  <header class="section-heading section-heading--split">
+    <div>
+      <p>Recent updates</p>
+      <h1>News</h1>
+    </div>
+    <span class="section-heading__status"><i></i> Active research</span>
+  </header>
+  <div class="news-timeline">
+    <article class="news-item news-item--highlight">
+      <time datetime="2026-07">2026.07</time>
+      <p><strong>SMASH</strong> is accepted by IEEE Transactions on Robotics (T-RO).</p>
+    </article>
+    <article class="news-item">
+      <time datetime="2026-05">2026.05</time>
+      <p><strong>EgoHumanoid</strong> is fully open-sourced and accepted by RSS 2026.</p>
+    </article>
+    <article class="news-item">
+      <time datetime="2026-04">2026.04</time>
+      <p>We release <strong>SMASH</strong>, mastering scalable whole-body skills for humanoid ping-pong with egocentric vision.</p>
+    </article>
+    <article class="news-item">
+      <time datetime="2026-02">2026.02</time>
+      <p>We release <strong>EgoHumanoid</strong>, a human-to-humanoid loco-manipulation transfer framework.</p>
+    </article>
+    <article class="news-item">
+      <time datetime="2026-01">2026.01</time>
+      <p><strong>WholeBodyVLA</strong> is accepted by ICLR 2026.</p>
+    </article>
+  </div>
+</section>
 
-Currently, I'm a second-year PhD student at Fudan University and Shanghai Innovation Institute, advised by [Prof. Hongyang Li](https://lihongyang.info/) and [Prof. Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). My research interests mainly focus on Humanoid Robot Learning.
+<section class="home-section publications-section" id="selected-publications">
+  <header class="section-heading">
+    <p>Featured research</p>
+    <h1>Selected Publications</h1>
+  </header>
 
+  <div class="featured-publications">
+    <article class="paper-box">
+      <div class="paper-box-image">
+        <div>
+          <span class="badge">T-RO 2026</span>
+          <img src="images/smash_teaser.png" alt="SMASH humanoid robot playing table tennis" width="100%">
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <div class="paper-meta"><span class="paper-venue">T-RO 2026</span><span class="paper-role paper-role--core">Core Contributor</span></div>
+        <h2 class="paper-title"><a href="https://mmlab.hk/Smash/">SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision</a></h2>
+        <p class="paper-summary">The first humanoid system to play agile ping-pong in the wild without motion capture.</p>
+        <div class="paper-links">
+          <a href="https://mmlab.hk/Smash/">Project <span aria-hidden="true">↗</span></a>
+          <a href="https://arxiv.org/abs/2604.01158">arXiv <span aria-hidden="true">↗</span></a>
+          <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:hqOjcs7Dif8C"></span></strong>
+        </div>
+      </div>
+    </article>
 
+    <article class="paper-box">
+      <div class="paper-box-image">
+        <div>
+          <span class="badge">RSS 2026</span>
+          <img src="images/EgoHumanoid.gif" alt="EgoHumanoid whole-body loco-manipulation demonstration" loading="lazy" width="100%">
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <div class="paper-meta"><span class="paper-venue">RSS 2026</span><span class="paper-role paper-role--core">Core Contributor</span></div>
+        <h2 class="paper-title"><a href="https://opendrivelab.com/EgoHumanoid/">EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration</a></h2>
+        <p class="paper-summary">Human-to-humanoid transfer for whole-body loco-manipulation using robot-free egocentric demonstrations.</p>
+        <div class="paper-links">
+          <a href="https://opendrivelab.com/EgoHumanoid/">Project <span aria-hidden="true">↗</span></a>
+          <a href="https://github.com/OpenDriveLab/EgoHumanoid">GitHub <span aria-hidden="true">↗</span></a>
+          <a href="https://arxiv.org/abs/2602.10106">arXiv <span aria-hidden="true">↗</span></a>
+          <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:hqOjcs7Dif8C"></span></strong>
+        </div>
+      </div>
+    </article>
 
-# 📖 Education
-* _2024 - (now), PhD student in Computer Science, Fudan University._
-* _2021 - 2024, M.S. in Machine Learning and Optimization, University of Chinese Academy of Sciences._
-* _2017 - 2021, B.S. in Statistics, Hunan University, Rank 1/30._ 
+    <article class="paper-box">
+      <div class="paper-box-image">
+        <div>
+          <span class="badge">ICLR 2026</span>
+          <img src="images/long2.gif" alt="WholeBodyVLA humanoid robot performing loco-manipulation" loading="lazy" width="100%">
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <div class="paper-meta"><span class="paper-venue">ICLR 2026</span><span class="paper-role paper-role--first">First Author</span></div>
+        <h2 class="paper-title"><a href="https://opendrivelab.com/WholeBodyVLA/">WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control</a></h2>
+        <p class="paper-summary">A unified latent vision-language-action model for whole-body loco-manipulation control.</p>
+        <div class="paper-links">
+          <a href="https://opendrivelab.com/WholeBodyVLA/">Project <span aria-hidden="true">↗</span></a>
+          <a href="https://github.com/OpenDriveLab/WholebodyVLA">GitHub <span aria-hidden="true">↗</span></a>
+          <a href="https://arxiv.org/abs/2512.11047">arXiv <span aria-hidden="true">↗</span></a>
+          <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:hqOjcs7Dif8C"></span></strong>
+        </div>
+      </div>
+    </article>
 
-# 🔥 News
-- *2026.07*: &nbsp;🎉 SMASH is accepted by IEEE Transactions on Robotics (T-RO)!
+    <article class="paper-box">
+      <div class="paper-box-image">
+        <div>
+          <span class="badge">ICCV 2025</span>
+          <img src="images/detany3d.jpg" alt="Detect Anything 3D open-world object detection visualization" loading="lazy" width="100%">
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <div class="paper-meta"><span class="paper-venue">ICCV 2025</span><span class="paper-role paper-role--first">Co-first Author</span></div>
+        <h2 class="paper-title"><a href="https://arxiv.org/abs/2504.07958">Detect Anything 3D in the Wild</a></h2>
+        <p class="paper-summary">Promptable monocular 3D object detection for open-world scenes.</p>
+        <div class="paper-links">
+          <a href="https://github.com/OpenDriveLab/DetAny3D">GitHub <span aria-hidden="true">↗</span></a>
+          <a href="https://arxiv.org/abs/2504.07958">arXiv <span aria-hidden="true">↗</span></a>
+          <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:LkGwnXOMwfcC"></span></strong>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
 
-- *2026.05*: &nbsp;🎉 EgoHumanoid is fully open-sourced and is accepted by RSS 2026!
+<section class="home-section" id="more-publications">
+  <header class="section-heading">
+    <p>Research archive</p>
+    <h1>More Publications</h1>
+  </header>
+  <div class="publication-groups">
+    <section class="publication-group" aria-labelledby="generative-ai-heading">
+      <h2 id="generative-ai-heading">Generative AI</h2>
+      <article class="publication-row">
+        <span class="publication-row__venue">NeurIPS 2025</span>
+        <p>ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection. <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:_FxGoFyzp5QC"></span></strong></p>
+      </article>
+      <article class="publication-row">
+        <span class="publication-row__venue">IEEE TVCG 2025</span>
+        <p>SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:ufrVoPGSRksC"></span></strong></p>
+      </article>
+      <article class="publication-row">
+        <span class="publication-row__venue">ICCV 2023</span>
+        <p>SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection. <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:Y0pCki6q_DkC"></span></strong></p>
+        <span class="paper-role paper-role--core">Core Contributor</span>
+      </article>
+    </section>
 
-- *2026.04*: &nbsp;📢 🏓 We release SMASH on ArXiv, mastering scalable whole-body skills for humanoid ping-pong with egocentric vision.
+    <section class="publication-group" aria-labelledby="machine-learning-heading">
+      <h2 id="machine-learning-heading">Machine Learning</h2>
+      <article class="publication-row">
+        <span class="publication-row__venue">AAAI 2024 · Oral</span>
+        <p>Navigating Real-World Partial Label Learning: Unveiling Fine-Grained Images with Attributes. <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:UebtZRa9Y70C"></span></strong></p>
+        <span class="paper-role paper-role--first">First Author</span>
+      </article>
+      <article class="publication-row">
+        <span class="publication-row__venue">Information Fusion 2025</span>
+        <p>Recent Advances in Complementary Label Learning. <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:WF5omc3nYNoC"></span></strong></p>
+        <span class="paper-role paper-role--corresponding">Corresponding Author</span>
+      </article>
+      <article class="publication-row">
+        <span class="publication-row__venue">Neural Networks 2024</span>
+        <p>ComCo: Complementary Supervised Contrastive Learning for Complementary Label Learning. <strong><span class="show_paper_citations" data="t9txi-IAAAAJ:roLk4NBRz8UC"></span></strong></p>
+        <span class="paper-role paper-role--first">First Author</span>
+      </article>
+    </section>
+  </div>
+</section>
 
-- *2026.02*: &nbsp;📢 We release EgoHumanoid on ArXiv, a human-to-humanoid loco-manipulation transfer framework.
-- *2026.01*: &nbsp;🎉 WholeBodyVLA is accepted by ICLR 2026!
-
-# 📝 Selected Publications and PrePrints
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO 2026</div><img src='images/smash_teaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SMASH: Mastering Scalable Whole-Body Skills for Humanoid
-Ping-Pong with Egocentric Vision](https://mmlab.hk/Smash/)
-
-<div class="paper-meta"><span class="paper-venue">T-RO 2026</span><span class="paper-role paper-role--core">Core Contributor</span></div>
-
-[**Project**](https://mmlab.hk/Smash/) | [**arXiv**](https://arxiv.org/abs/2604.01158) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
-- The first humanoid system to play agile pingpong in-the-wild without mocap.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/EgoHumanoid.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)
-
-<div class="paper-meta"><span class="paper-venue">RSS 2026</span><span class="paper-role paper-role--core">Core Contributor</span></div>
-
-[**Project**](https://opendrivelab.com/EgoHumanoid/) | [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid) | [**arXiv**](https://arxiv.org/abs/2602.10106) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
-- The first endorsement of human-to-humanoid transfer for whole-body locomanipulation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/long2.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)
-
-<div class="paper-meta"><span class="paper-venue">ICLR 2026</span><span class="paper-role paper-role--first">First Author</span></div>
-
-[**Project**](https://opendrivelab.com/WholeBodyVLA/) | [**GitHub**](https://github.com/OpenDriveLab/WholebodyVLA) | [**arXiv**](https://arxiv.org/abs/2512.11047) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:hqOjcs7Dif8C'></span></strong>
-- Towards unified latent vision-language-action models for whole-body loco-manipulation control.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/detany3d.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Detect anything 3d in the wild](https://arxiv.org/abs/2504.07958)
-
-<div class="paper-meta"><span class="paper-venue">ICCV 2025</span><span class="paper-role paper-role--first">Co-first Author</span></div>
-
-[**GitHub**](https://github.com/OpenDriveLab/DetAny3D) | [**arXiv**](https://arxiv.org/abs/2504.07958) <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:LkGwnXOMwfcC'></span></strong>
-- 3D object detection in the wild.
-</div>
-</div>
-
-## Generative AI
-
-[**NeurIPS 2025**] Forgerysleuth: Empowering multimodal large language models for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:_FxGoFyzp5QC'></span></strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;Z Sun, **Haoran Jiang**, H Chen, Y Cao, X Qiu, Z Wu, YG Jiang
-
-[**IEEE TVCG 2025**] SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:ufrVoPGSRksC'></span></strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;Y Tian, M Liu, **Haoran Jiang**, Y Tu, D Su
-
-[**ICCV 2023**] SAFL-Net: Semantic-agnostic feature learning network with auxiliary plugins for image manipulation detection. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:Y0pCki6q_DkC'></span></strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;Z Sun, **Haoran Jiang**, D Wang, X Li, J Cao
-
-## Weakly-supervised Learning
-
-[**AAAI 2024 (Oral)**] Navigating real-world partial label learning: unveiling fine-grained images with attributes. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:UebtZRa9Y70C'></span></strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Haoran Jiang**, Z Sun, Y Tian
-
-[**Information Fusion 2025**] Recent advances in complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:WF5omc3nYNoC'></span></strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;Y Tian, **Haoran Jiang**† (Corresponding author)
-
-[**Neural Networks 2024**] ComCo: Complementary supervised contrastive learning for complementary label learning. <strong><span class='show_paper_citations' data='t9txi-IAAAAJ:roLk4NBRz8UC'></span></strong>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Haoran Jiang**, Z Sun, Y Tian
-
-
-
-
-# 🎖 Selected Honors and Awards
-* National Scholarship 
-* Beijing University Basketball League - Second Place 
-
-# Services
-**Reviewer:** RSS, ICLR, NeurIPS, CVPR, ICCV, AAAI, RA-L, etc.
-
-**Organizer:** [End-to-End Embodied Agents Workshop](https://www.starleague.ai/event2024/).
+<section class="home-section" id="honors-and-service">
+  <header class="section-heading">
+    <p>Academic profile</p>
+    <h1>Honors &amp; Service</h1>
+  </header>
+  <div class="profile-highlights">
+    <article class="profile-highlight-card">
+      <span class="profile-highlight-card__index">01</span>
+      <h2>Selected Honors</h2>
+      <ul>
+        <li>National Scholarship</li>
+        <li>Beijing University Basketball League · Second Place</li>
+      </ul>
+    </article>
+    <article class="profile-highlight-card">
+      <span class="profile-highlight-card__index">02</span>
+      <h2>Academic Service</h2>
+      <p><strong>Reviewer</strong> · RSS, ICLR, NeurIPS, CVPR, ICCV, AAAI, RA-L</p>
+      <p><strong>Organizer</strong> · <a href="https://www.starleague.ai/event2024/">End-to-End Embodied Agents Workshop</a></p>
+    </article>
+  </div>
+</section>
