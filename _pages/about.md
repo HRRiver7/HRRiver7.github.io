@@ -51,7 +51,7 @@ redirect_from:
     <article class="education-card">
       <div class="education-card__logos education-card__logos--masters">
         <img class="education-logo education-logo--ucas" src="images/logo-ucas.png" alt="University of Chinese Academy of Sciences logo">
-        <img class="education-logo education-logo--amss" src="images/logo-amss.png" alt="Academy of Mathematics and Systems Science logo">
+        <img class="education-logo education-logo--amss" src="images/logo-amss-compact.png" alt="Academy of Mathematics and Systems Science logo">
       </div>
       <span class="education-card__year">2021 — 2024</span>
       <div class="education-card__content">
