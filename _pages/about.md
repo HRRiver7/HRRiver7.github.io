@@ -74,7 +74,7 @@ redirect_from:
       </div>
       <div class="paper-box-text">
         <div class="paper-meta"><span class="paper-role paper-role--first">Project Leader</span></div>
-        <h2 class="paper-title">Humanoids for sports - RoboPingpong V1</h2>
+        <h2 class="paper-title">Humanoid for sports - RoboPingpong V1</h2>
         <p class="paper-summary">Enhanced for stronger play built on SMASH.<br>RoboPingpong V2 is coming soon with something new...</p>
       </div>
     </article>
