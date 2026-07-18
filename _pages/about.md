@@ -127,7 +127,7 @@ redirect_from:
       <div class="paper-box-text">
         <div class="paper-meta"><span class="paper-venue">ICLR 2026</span><span class="paper-role paper-role--first">First Author</span></div>
         <h2 class="paper-title"><a href="https://opendrivelab.com/WholeBodyVLA/">WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control</a></h2>
-        <p class="paper-summary">The first end-to-end humanoid system for large-space whole-body loco-manipulation.</p>
+        <p class="paper-summary">The first VLA-style humanoid system for large-space whole-body loco-manipulation.</p>
         <div class="paper-links">
           <a href="https://opendrivelab.com/WholeBodyVLA/">Project <span aria-hidden="true">↗</span></a>
           <a class="github-repo-link" href="https://github.com/OpenDriveLab/WholebodyVLA" data-github-repo="OpenDriveLab/WholebodyVLA"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span><span class="github-stars" aria-label="521 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span data-github-star-count>521</span></span></a>
