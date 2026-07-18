@@ -18,9 +18,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <section class="research-hero" aria-labelledby="research-hero-title">
-  <div class="research-hero__glow" aria-hidden="true"></div>
-  <p class="research-hero__eyebrow"><span></span> Humanoid Robot Learning · Embodied AI</p>
-  <h1 id="research-hero-title">Learning whole-body intelligence for humanoid robots.</h1>
+  <h1 id="research-hero-title">Humanoid Robot Learning</h1>
   <p class="research-hero__intro">
     I am a second-year Ph.D. student at Fudan University and Shanghai Innovation Institute, advised by
     <a href="https://lihongyang.info/">Prof. Hongyang Li</a> and
@@ -28,34 +26,39 @@ redirect_from:
     versatile loco-manipulation skills from human demonstrations and multimodal experience.
   </p>
   <div class="research-hero__actions">
-    <a class="hero-button hero-button--primary" href="#selected-publications">Selected work <span aria-hidden="true">↓</span></a>
+    <a class="hero-button hero-button--primary" href="#selected-projects">Selected work <span aria-hidden="true">↓</span></a>
     <a class="hero-button" href="https://scholar.google.com/citations?user=t9txi-IAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a>
     <a class="hero-button" href="mailto:jianghaoran2024@gmail.com">Email</a>
-  </div>
-  <div class="research-hero__topics" aria-label="Research topics">
-    <span>Vision-Language-Action</span>
-    <span>Whole-Body Control</span>
-    <span>Human-to-Humanoid Transfer</span>
   </div>
 </section>
 
 <section class="home-section" id="education">
   <header class="section-heading">
-    <p>Background</p>
     <h1>Education</h1>
   </header>
   <div class="education-grid">
     <article class="education-card">
+      <div class="education-card__logos education-card__logos--phd">
+        <img class="education-logo education-logo--seal" src="images/logo-fdu.png" alt="Fudan University logo">
+        <img class="education-logo education-logo--wide" src="images/logo-sii.png" alt="Shanghai Innovation Institute logo">
+      </div>
       <span class="education-card__year">2024 — Present</span>
       <h2>Fudan University</h2>
       <p>Ph.D. student in Computer Science</p>
     </article>
     <article class="education-card">
+      <div class="education-card__logos education-card__logos--masters">
+        <img class="education-logo education-logo--ucas" src="images/logo-ucas.png" alt="University of Chinese Academy of Sciences logo">
+        <img class="education-logo education-logo--amss" src="images/logo-amss.png" alt="Academy of Mathematics and Systems Science logo">
+      </div>
       <span class="education-card__year">2021 — 2024</span>
       <h2>Chinese Academy of Sciences</h2>
       <p>M.S. in Machine Learning and Optimization</p>
     </article>
     <article class="education-card">
+      <div class="education-card__logos">
+        <img class="education-logo education-logo--seal" src="images/logo-hnu.webp" alt="Hunan University logo">
+      </div>
       <span class="education-card__year">2017 — 2021</span>
       <h2>Hunan University</h2>
       <p>B.S. in Statistics · Rank 1/30</p>
@@ -64,12 +67,8 @@ redirect_from:
 </section>
 
 <section class="home-section" id="news">
-  <header class="section-heading section-heading--split">
-    <div>
-      <p>Recent updates</p>
-      <h1>News</h1>
-    </div>
-    <span class="section-heading__status"><i></i> Active research</span>
+  <header class="section-heading">
+    <h1>News</h1>
   </header>
   <div class="news-timeline">
     <article class="news-item news-item--highlight">
@@ -95,10 +94,9 @@ redirect_from:
   </div>
 </section>
 
-<section class="home-section publications-section" id="selected-publications">
+<section class="home-section publications-section" id="selected-projects">
   <header class="section-heading">
-    <p>Featured research</p>
-    <h1>Selected Publications</h1>
+    <h1>Selected Projects</h1>
   </header>
 
   <div class="featured-publications">
@@ -184,7 +182,6 @@ redirect_from:
 
 <section class="home-section" id="more-publications">
   <header class="section-heading">
-    <p>Research archive</p>
     <h1>More Publications</h1>
   </header>
   <div class="publication-groups">
@@ -228,12 +225,10 @@ redirect_from:
 
 <section class="home-section" id="honors-and-service">
   <header class="section-heading">
-    <p>Academic profile</p>
     <h1>Honors &amp; Service</h1>
   </header>
   <div class="profile-highlights">
     <article class="profile-highlight-card">
-      <span class="profile-highlight-card__index">01</span>
       <h2>Selected Honors</h2>
       <ul>
         <li>National Scholarship</li>
@@ -241,7 +236,6 @@ redirect_from:
       </ul>
     </article>
     <article class="profile-highlight-card">
-      <span class="profile-highlight-card__index">02</span>
       <h2>Academic Service</h2>
       <p><strong>Reviewer</strong> · RSS, ICLR, NeurIPS, CVPR, ICCV, AAAI, RA-L</p>
       <p><strong>Organizer</strong> · <a href="https://www.starleague.ai/event2024/">End-to-End Embodied Agents Workshop</a></p>
