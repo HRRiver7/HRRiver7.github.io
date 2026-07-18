@@ -81,6 +81,7 @@ redirect_from:
     <article class="paper-box">
       <div class="paper-box-image">
         <div>
+          <span class="badge">T-RO 2026</span>
           <img src="images/smash_teaser.png" alt="SMASH humanoid robot playing table tennis" width="100%">
         </div>
       </div>
@@ -99,6 +100,7 @@ redirect_from:
     <article class="paper-box">
       <div class="paper-box-image">
         <div>
+          <span class="badge">RSS 2026</span>
           <img src="images/EgoHumanoid.gif" alt="EgoHumanoid whole-body loco-manipulation demonstration" loading="lazy" width="100%">
         </div>
       </div>
@@ -118,6 +120,7 @@ redirect_from:
     <article class="paper-box">
       <div class="paper-box-image">
         <div>
+          <span class="badge">ICLR 2026</span>
           <img src="images/long2.gif" alt="WholeBodyVLA humanoid robot performing loco-manipulation" loading="lazy" width="100%">
         </div>
       </div>
@@ -137,6 +140,7 @@ redirect_from:
     <article class="paper-box">
       <div class="paper-box-image">
         <div>
+          <span class="badge">ICCV 2025</span>
           <img src="images/detany3d-teaser.png" alt="Detect Anything 3D open-world object detection visualization" loading="lazy" width="100%">
         </div>
       </div>
