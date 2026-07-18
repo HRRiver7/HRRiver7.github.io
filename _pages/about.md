@@ -33,46 +33,6 @@ redirect_from:
   </div>
 </section>
 
-<section class="home-section" id="education">
-  <header class="section-heading">
-    <h1>Education</h1>
-  </header>
-  <div class="education-grid">
-    <article class="education-card">
-      <div class="education-card__logos education-card__logos--phd">
-        <img class="education-logo education-logo--seal" src="images/logo-fdu.png?v=28b899c" alt="Fudan University logo">
-        <img class="education-logo education-logo--wide" src="images/logo-sii.png" alt="Shanghai Innovation Institute logo">
-      </div>
-      <span class="education-card__year">2024 — Present</span>
-      <div class="education-card__content">
-        <h2>Fudan University</h2>
-        <p>Ph.D. student in Computer Science</p>
-      </div>
-    </article>
-    <article class="education-card">
-      <div class="education-card__logos education-card__logos--masters">
-        <img class="education-logo education-logo--ucas" src="images/logo-ucas.png" alt="University of Chinese Academy of Sciences logo">
-        <img class="education-logo education-logo--amss" src="images/logo-amss-compact.png?v=28b899c" alt="Academy of Mathematics and Systems Science logo">
-      </div>
-      <span class="education-card__year">2021 — 2024</span>
-      <div class="education-card__content">
-        <h2>Chinese Academy of Sciences</h2>
-        <p>M.S. in Machine Learning and Optimization</p>
-      </div>
-    </article>
-    <article class="education-card">
-      <div class="education-card__logos">
-        <img class="education-logo education-logo--hnu" src="images/logo-hnu.webp" alt="Hunan University logo">
-      </div>
-      <span class="education-card__year">2017 — 2021</span>
-      <div class="education-card__content">
-        <h2>Hunan University</h2>
-        <p>B.S. in Statistics · Rank 1/30</p>
-      </div>
-    </article>
-  </div>
-</section>
-
 <section class="home-section" id="news">
   <header class="section-heading">
     <h1>News</h1>
@@ -107,6 +67,19 @@ redirect_from:
   </header>
 
   <div class="featured-publications">
+    <article class="paper-box">
+      <div class="paper-box-image">
+        <div>
+          <img src="images/robopingpong-v2.gif" alt="Humanoid robot playing table tennis in RoboPingpong V2" loading="lazy" width="100%">
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <div class="paper-meta"><span class="paper-role paper-role--first">Project Leader</span></div>
+        <h2 class="paper-title">Humanoids for sports - RoboPingpong V2</h2>
+        <p class="paper-summary">something new coming soon</p>
+      </div>
+    </article>
+
     <article class="paper-box">
       <div class="paper-box-image">
         <div>
@@ -170,7 +143,7 @@ redirect_from:
       <div class="paper-box-image">
         <div>
           <span class="badge">ICCV 2025</span>
-          <img src="images/detany3d.jpg" alt="Detect Anything 3D open-world object detection visualization" loading="lazy" width="100%">
+          <img src="images/detany3d-teaser.png" alt="Detect Anything 3D open-world object detection visualization" loading="lazy" width="100%">
         </div>
       </div>
       <div class="paper-box-text">
@@ -227,6 +200,46 @@ redirect_from:
         <span class="paper-role paper-role--first">First Author</span>
       </article>
     </section>
+  </div>
+</section>
+
+<section class="home-section" id="education">
+  <header class="section-heading">
+    <h1>Education</h1>
+  </header>
+  <div class="education-grid">
+    <article class="education-card">
+      <div class="education-card__logos education-card__logos--phd">
+        <img class="education-logo education-logo--seal" src="images/logo-fdu.png?v=28b899c" alt="Fudan University logo">
+        <img class="education-logo education-logo--wide" src="images/logo-sii.png" alt="Shanghai Innovation Institute logo">
+      </div>
+      <span class="education-card__year">2024 — Present</span>
+      <div class="education-card__content">
+        <h2>Fudan University</h2>
+        <p>Ph.D. student in Computer Science</p>
+      </div>
+    </article>
+    <article class="education-card">
+      <div class="education-card__logos education-card__logos--masters">
+        <img class="education-logo education-logo--ucas" src="images/logo-ucas.png" alt="University of Chinese Academy of Sciences logo">
+        <img class="education-logo education-logo--amss" src="images/logo-amss-compact.png?v=28b899c" alt="Academy of Mathematics and Systems Science logo">
+      </div>
+      <span class="education-card__year">2021 — 2024</span>
+      <div class="education-card__content">
+        <h2>Chinese Academy of Sciences</h2>
+        <p>M.S. in Machine Learning and Optimization</p>
+      </div>
+    </article>
+    <article class="education-card">
+      <div class="education-card__logos">
+        <img class="education-logo education-logo--hnu" src="images/logo-hnu.webp" alt="Hunan University logo">
+      </div>
+      <span class="education-card__year">2017 — 2021</span>
+      <div class="education-card__content">
+        <h2>Hunan University</h2>
+        <p>B.S. in Statistics · Rank 1/30</p>
+      </div>
+    </article>
   </div>
 </section>
 
