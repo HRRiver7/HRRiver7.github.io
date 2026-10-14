@@ -110,7 +110,7 @@ redirect_from:
       <div class="paper-box-image">
         <div>
           <span class="badge">T-RO 2026</span>
-          <img src="images/smash_teaser.png" alt="SMASH humanoid robot playing table tennis" width="100%">
+          <img src="images/smash-cover.gif" alt="SMASH humanoid ping-pong demonstration, transitioning from outdoor to indoor play" loading="lazy" width="100%">
         </div>
       </div>
       <div class="paper-box-text">
