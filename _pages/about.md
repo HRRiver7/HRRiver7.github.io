@@ -37,6 +37,10 @@ redirect_from:
   </header>
   <div class="news-timeline">
     <article class="news-item news-item--highlight">
+      <time datetime="2026-10">2026.10</time>
+      <p>We introduce <a href="https://www.archon.tech/research/PingpongDuo"><strong>PingpongDuo</strong></a>, the first humanoid table tennis doubles system.</p>
+    </article>
+    <article class="news-item">
       <time datetime="2026-07">2026.07</time>
       <p><strong>SMASH</strong> is accepted by IEEE Transactions on Robotics (T-RO).</p>
     </article>
@@ -68,14 +72,37 @@ redirect_from:
     <article class="paper-box">
       <div class="paper-box-image">
         <div>
+          <span class="badge">PREPRINT 2026</span>
+          <a href="https://www.archon.tech/research/PingpongDuo" aria-label="Explore the PingpongDuo project">
+            <video autoplay loop muted playsinline preload="metadata" width="1920" height="1080" poster="https://assets.archonrobotics.tech/project/PingpongDuo/assets__hero.webp?v=20261014-hero-14s-1" aria-label="Two humanoid teammates playing table tennis doubles in PingpongDuo">
+              <source src="https://assets.archonrobotics.tech/project/PingpongDuo/assets__hero.mp4?v=20261014-hero-14s-1" type="video/mp4">
+            </video>
+          </a>
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <div class="paper-meta"><span class="paper-venue">Preprint 2026</span><span class="paper-role paper-role--first">First Author</span></div>
+        <h2 class="paper-title"><a href="https://www.archon.tech/research/PingpongDuo">PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination</a></h2>
+        <p class="paper-summary">The first humanoid table tennis doubles system, combining safe team coordination, agile footwork, and precise striking.</p>
+        <div class="paper-links">
+          <a href="https://www.archon.tech/research/PingpongDuo">Project <span aria-hidden="true">↗</span></a>
+          <a href="https://assets.archonrobotics.tech/project/PingpongDuo/assets__PingpongDuo-20261014.pdf">Paper <span aria-hidden="true">↗</span></a>
+          <a href="https://www.archon.tech/research/PingpongDuo#film">Video <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </article>
+
+    <article class="paper-box">
+      <div class="paper-box-image">
+        <div>
           <span class="badge">LIVE DEMO</span>
-          <img src="images/robopingpong-v2.gif" alt="Humanoid robot playing table tennis in RoboPingpong V2" loading="lazy" width="100%">
+          <img src="images/robopingpong-v2.gif" alt="Humanoid robot playing table tennis in RoboPingpong" loading="lazy" width="100%">
         </div>
       </div>
       <div class="paper-box-text">
         <div class="paper-meta"><span class="paper-role paper-role--first">Project Leader</span></div>
-        <h2 class="paper-title">Humanoid for sports - RoboPingpong V1</h2>
-        <p class="paper-summary">Enhanced for stronger play built on SMASH.<br>RoboPingpong V2 is coming soon with something new...</p>
+        <h2 class="paper-title">Humanoid for sports - RoboPingpong</h2>
+        <p class="paper-summary">Upgraded SMASH to a live in-the-wild humanoid ping-pong demo with stronger rallies and fully onboard computation.</p>
       </div>
     </article>
 
